@@ -1,0 +1,13 @@
+Vendor ID,Vendor Name,Division,Class,Sub-Class,Vendor Style,Description,Color,Case-pack,Cost,Reg Retail,Original Retail,Total Quantity,Location,Ship Dates,Cancel Dates,PO_ID,Brand Name
+V001,Vendor_1,Womenswear,Outerwear,Dresses,Style_332,Accessories Dresses,White,11,39.21,77.95,79.84,447,NJ,07-04-2026,22-05-2026,PO_001,Burberry
+V002,Vendor_2,Womenswear,Outerwear,Dresses,Style_368,Accessories Dresses,Blue,22,35.18,66.22,67.47,306,TX,07-04-2026,22-05-2026,PO_001,Burberry
+V003,Vendor_3,Menswear,Topwear,Jackets,Style_950,Menswear Jackets,Green,4,35.41,77.3,77.67,217,NY,20-04-2026,18-06-2026,PO_002,Burberry
+V004,Vendor_4,Menswear,Topwear,Shirts,Style_660,Menswear Shirt,Blue,50,92.1,141.16,146.24,95,NY,20-04-2026,18-06-2026,PO_002,Burberry
+V005,Vendor_5,Menswear,Topwear,Jackets,Style_674,Menswear Jackets,Red,43,73.98,136.47,149.4,335,NJ,20-04-2026,18-06-2026,PO_002,Burberry
+V006,Vendor_6,Menswear,Topwear,Jackets,Style_309,Menswear Jackets,Blue,45,32.39,67.47,73.94,203,NY,20-04-2026,18-06-2026,PO_002,Burberry
+V007,Vendor_7,Menswear,Topwear,Jackets,Style_611,Menswear Jackets,White,45,51.8,82.62,88.58,195,NJ,20-04-2026,18-06-2026,PO_002,Burberry
+V008,Vendor_8,Menswear,Bottomwear,Pants,Style_713,Menswear Pants,White,49,29.43,45.11,49.89,56,LA,20-04-2026,18-06-2026,PO_002,Burberry
+V009,Vendor_9,Menswear,Bottomwear,Pants,Style_757,Menswear Pants,Green,22,73.84,179.28,199.68,472,TX,20-04-2026,18-06-2026,PO_002,Burberry
+V010,Vendor_10,Menswear,Bottomwear,Pants,Style_396,Menswear Pants,Beige,29,58.97,110.5,123.22,53,NJ,20-04-2026,18-06-2026,PO_002,Burberry
+V011,Vendor_11,Womenswear,Topwear,Shirts,Style_865,Shirts,Red,50,58.19,108.83,109.75,420,NJ,01-04-2026,12-05-2026,PO_003,Adidas
+V012,Vendor_12,Womenswear,Topwear,Dresses,Style_707,Dresses,Green,45,40.55,69.57,70.65,103,NY,01-04-2026,12-05-2026,PO_003,Adidas
